@@ -1,0 +1,40 @@
+#Fast Food
+
+036 French Fries 106/-
+037 Chilli Cheese Toast 115/-
+038 Chilli Cheese Gralic Toast 115/-
+039 Garlic Bread 98/-
+040 Garlic Bread with Cheese 119/-
+041 Plain Sandwich 175/-
+042 Grilled Sandwich 175/-
+043 Club Sandwich 175/-
+044 Russian Salad/Maccroni 119/-
+045 Veg. Burger 72/-
+046 Maccroni Hotpot 205/-
+047 Veg. Augratin 205/-
+048 Pasta Spicy Tomato/Classical Cheese 190/-
+049 Pasta in Twin Sauce 190/-
+050 Plain Cheese Pizza 190/-
+051 Capsicum, Onion Pizza 210/-
+052 Tomato, Onion Pizza 210/-
+053 Capsicum, Onion, Mashroom Pizza 250/-
+054 Jain Spl. Pizza 250/-
+055 Tandoori Pizza 250/-
+056 Super Veggie Pizza(Double Cheese) 265/-
+057 Cheese 55/-
+058 Lasanana Roll 133/-
+059 Paneer Salsa Wrap 133/-
+060 Lebenense Fala Fel 133/-
+061 Veg Hakka Noodles 145/-
+061 Chilli Garlic Noodles 145/-
+062 Pan Fried Noodles 225/-
+063 Gravy Noodles 225/-
+064 Pav Bhaji 140/-
+065 Jain Pav Bhaji 155/-
+066 Bombay Vada Pav 102/-
+067 Extra Pav 35/-
+068 Dahi Bhalla/Dahi Papri 90/-
+069 Dahi Bhalla Papri 90/-
+070 Gol Gappa (6 pcs.) 68/-
+071 Gol Gappa Water Extra For Packing 25/-
+

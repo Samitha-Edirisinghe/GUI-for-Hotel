@@ -1,0 +1,11 @@
+#Tea & Coffee
+
+001 Tea 40/-
+002 Coffee Mocachino 51/-
+003 Coffee Americano (Black) 55/-
+004 Coffee Espresso 60/-
+005 Ice Tea (Lemon) 51/-
+006 Coffee Cappuccino 51/-
+007 Espresso (Black) 55/-
+008 Cold-Coffee (Frappe) 70/-
+

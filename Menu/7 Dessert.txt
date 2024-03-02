@@ -1,0 +1,23 @@
+#Dessert
+161 Gulab Jamun 60/-
+162 Halwa (Seasonal) 60/-
+163 Rava Kesri 72/-
+164 Vanilla/Strawberry 51/-
+165 Tutti Fruti 60/-
+166 Pineapple 60/-
+167 Chocolate 60/-
+168 Butter Scotch 60/-
+169 Kaju Kishmish 60/-
+170 Vanilla Chocochips 60/-
+171 Mango 60/-
+172 Anjeer Honey 60/-
+173 Chocolate Almond Fudge 60/-
+174 Kesar Pista 60/-
+175 Black Currant 60/-
+176 Hot Choclate Fudge 165/-
+177 Fruit Salad Sundae 165/-
+178 Vanilla 128/-
+179 Mango 128/-
+180 Pineapple 128/-
+
+

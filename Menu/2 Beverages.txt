@@ -1,0 +1,28 @@
+#Beverages
+
+009 Cola / Orange / Lemon 55/-
+010 Diet Pepsi 55/-
+011 Fresh Lime Soda Sweet / Salt 60/-
+012 Mineral Water 55/-
+013 Fresh lime Water Sweet / Salt 60/-
+015 Fresh Juices Seasonal/Mix 160/-
+016 Fruit Punch 150/-
+017 Red Sea 150/-
+018 Virgin Colada 150/-
+019 Love Valley 150/-
+020 Pomi Twist 150/-
+021 Ginger Fizz 150/-
+022 Italian Smooch 150/-
+023 Devils Kiss 150/-
+024 Blue Lagoon 150/-
+025 Fresh Mint Mojito 150/-
+026 Kiwi Smoothie 150/-
+027 Virgin Guava 150/-
+028 Litchi Smoothie 150/-
+029 Peach Apricot 150/-
+030 Blue Berry Smoothie 150/-
+031 Green Hayland 150/-
+032 White Rosy 150/-
+033 Watermelon Mojito 150/-
+034 Lime Ice / Orange 119/-
+035 Golden Glow / Strawberry 119/-

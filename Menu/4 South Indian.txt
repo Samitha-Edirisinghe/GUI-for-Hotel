@@ -1,0 +1,24 @@
+#South Indian
+072 Rice Idli 81/-
+073 Sambhar Vada 85/-
+074 Dahi Vada 81/-
+075 Dosa (Butter) 125/-
+076 Onion Dosa (Butter) 136/-
+077 Paper Dosa 130/-
+078 Mysore Dosa 123/-
+079 Rawa Dosa 119/-
+080 Onion Rawa Dosa 136/-
+081 Masala Dosa (Butter) 145/-
+082 Masala Onion Dosa (Butter) 156/-
+083 Masala Paper Dosa 150/-
+084 Masala Myscore Dosa 143/-
+085 Masala Rawa Dosa 156/-
+086 Masala Onion Rawa Dosa 171/-
+087 Onion Uttapam 155/-
+088 Tomato Uttapam 155/-
+089 Mix Veg Uttapam 155/-
+090 Sambhar Rice 132/-
+091 Curd Rice 132/-
+092 Sambhar 35/-
+093 Chutney 15/-
+

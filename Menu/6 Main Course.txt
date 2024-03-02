@@ -1,0 +1,48 @@
+#Main Course
+115 Veg Chopsouey 195/-
+116 Chilly Paneer Gravy 205/-
+117 Manchurian Gravy 175/-
+118 Sweet & Sour Veg. 175/-
+119 Mix. Veg. in Hot Garlic Sauce 185/-
+120 Shreded Potatoes in Hot Garlic Sauce 153/-
+121 Shahi Paneer 210/-
+122 Kadhai Paneer 210/-
+123 Paneer Butter Masala 210/-
+124 Mushroom Masala 215/-
+125 Malai Kofta 210/-
+126 Veg. Fried Rice 165/-
+127 Chilly Garlic Rice 165/-
+128 Dal Makhani 192/-
+129 Yellow Dal 141/-
+130 Rajma 141/-
+131 Chole 141/-
+132 Tandoori Roti 30/-
+133 Roomali Roti 17/-
+134 Butter Roti 36/-
+135 Plain Naan 43/-
+136 Butter Naan 58/-
+137 Garlic Naan Butter 60/-
+138 Tawa Parantha 53/-
+139 Laccha Parantha 53/-
+140 Pudina Parantha 53/-
+141 Stuffed Kulcha (Aloo) 65/-
+142 Stuffed Kulcha (Paneer) 65/-
+143 Stuffed Kulcha (Onion) 65/-
+144 Papad 15/-
+145 Steam Rice 161/-
+146 Soya Dum Biryani 220/-
+147 Veg. Pulao 161/-
+148 Mix Veg. Pulao 161/-
+149 Jeera Pulao 161/-
+150 Matka Biryani With Raita 220/-
+151 Hyderabadi Biryani 220/-
+152 Plain Raita 102/-
+153 Boondi Raita 102/-
+154 Mix. Veg. Raita 102/-
+155 Jeera Raita 102/-
+156 Pineapple Raita 102/-
+157 Thali Regular (Only Packing) 196/-
+158 Thali Special 280/-
+159 Roomali Roti with Paneer Tikka Masala 250/-
+160 Rogan Soya Chap with Roomali Roti 250/-
+
